@@ -8,7 +8,7 @@
 
 ## Contact
 
-- **Email:** [samuel.frutuoso@outlook.com](mailto:samuel.frutuoso@outlook.com) ✉️
+- **Email:** [samuel.frutuoso@outlook.com](mailto\:samuel.frutuoso@outlook.com) ✉️
 - **LinkedIn:** [samuelfrutuoso](https://www.linkedin.com/in/samuelfrutuoso) 🌐
 
 ## Summary
@@ -28,6 +28,14 @@ Experienced with:
 
 ## Professional Experience
 
+### Tank Wealth Management LLC
+
+**Web Application Developer**
+
+- July 2024 - October 2024 (4 months) 🗓️
+- Developed a financial web application using Laravel with API integration for user image authentication.
+- Delivered a secure and scalable solution to streamline user onboarding processes.
+
 ### M4 Consultoria
 
 **Backend Software Developer and Desktop Application Developer**
@@ -45,24 +53,30 @@ Experienced with:
 ### Mechanics Consultoria e Serviços
 
 - **Project Member**
+
   - January 2017 - June 2020 (3 years and 6 months) 🗓️
   - Mossoró, Rio Grande do Norte, Brazil 🇧🇷
 
 - **Financial Administrator**
+
   - December 2018 - January 2020 (1 year and 2 months) 💰📈
 
 - **Quality Manager**
+
   - December 2017 - June 2018 (7 months) ✅📋
 
 ## Education
 
 - **Descomplica Faculdade Digital** 🎓
+
   - Postgraduate Lato Sensu - Specialization in Data Science (July 2023)
 
 - **UNIMAIS - Faculdade Educamais** 🎓
+
   - Postgraduate Lato Sensu - Specialization in Production Engineering (October 2020 - May 2022)
 
 - **Universidade Federal Rural do Semi-Árido** 🎓
+
   - Bachelor's Degree in Science and Technology (2013 - 2017)
 
 ## Skills
